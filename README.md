@@ -8,3 +8,16 @@ Advertisers like Nike, who spend significant sums on advertising platforms like 
 A Data Clean Room (DCR) provides a secure and privacy-compliant environment where data from multiple parties, such as advertisers and ad networks, can be combined and analyzed without either party fully exposing their proprietary data to the other.
 
 For example, an ad network like Facebook has detailed data on ad views, while an advertiser like Nike holds a list of customer segments. Using a DCR, Facebook and Nike can join their data, running specific queries on the combined dataset to gain insights into ad performance. Importantly, this data matching process ensures that individual privacy is protected and that sensitive customer information is never exposed to either party.
+
+
+## Benefits and Capabilities of Data Clean Rooms
+
+- Privacy-Preserving Data Collaboration:
+A DCR enables the secure sharing of aggregated data between parties, allowing them to combine insights without compromising user privacy. Advertisers like Nike can benefit from rich insights into their campaigns, even when ad networks can’t directly share customer data.
+
+- Actionable Insights for Advertisers:
+With a DCR, advertisers can run tailored queries to understand the effectiveness of their ads. Some possible queries include:
+
+- Ad Performance by Demographics: “What percentage of female viewers interacted with the ad?” This allows the advertiser to assess the ad’s relevance to different customer segments.
+
+- Ad Resonance by Income: “Is the ad performing better among high-income or low-income individuals?” This provides insights into whether the ad is resonating more with a particular socioeconomic group, allowing advertisers to adjust targeting accordingly.
